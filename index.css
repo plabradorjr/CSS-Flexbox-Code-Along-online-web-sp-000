@@ -17,7 +17,7 @@ main {
   height: 100%;
   flex-wrap: wrap;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .item {
